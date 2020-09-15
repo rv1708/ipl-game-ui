@@ -1,7 +1,7 @@
 import React from 'react';
-import './App.css';
-import Dashboard from './Dashboard';
-import Login from './Login';
+import './src/App.css';
+import Dashboard from './src/Dashboard';
+import Login from './src/Login';
 import {  Route, Switch, Redirect } from 'react-router-dom';
 
 function App() {
